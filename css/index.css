@@ -1,0 +1,39 @@
+body{
+    background-color: brown !important;
+}
+
+footer {
+    background-color: rgb(255, 255, 255) !important;
+}
+
+.py-3 {
+    padding-top: 1rem!important;
+    padding-bottom: 0rem!important;
+
+}
+h2{
+    color: white!important;
+    margin-bottom: 0rem!important;
+}
+
+.margen-izquierdo {
+    margin-left: 2rem!important;
+}
+
+hr {
+    color: white!important;
+    margin: 0!important;
+    margin-bottom: 0.4rem !important;
+}
+
+.card {
+    background-color: rgb(197, 0, 0);
+}
+
+.article-text {
+    color: white!important;
+}
+
+.justificado {
+    text-align: justify!important;
+}
