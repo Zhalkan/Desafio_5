@@ -28,6 +28,7 @@ hr {
 
 .justificado {
     text-align: justify!important;
+    margin: 0!important;
 }
 
 #logocontacto {
